@@ -1,0 +1,9 @@
+
+z
+java:S4165Z"dRemove this useless assignment; "droits" already holds the assigned value along all execution paths.(¬Ö®
+M
+java:S1172Y"2Remove this unused method parameter "permissions".(“È»şÿÿÿÿ
+E
+java:S1656Z"/Remove or correct this useless self-assignment.(¬Ö®
+U
+java:S1128"?Remove this unused import 'sn.isi.securiteweb.entities.Droits'.(®â¾’

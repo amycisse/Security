@@ -1,0 +1,26 @@
+
+k	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Ä‡úùÿÿÿÿ
+H
+java:S1948"-Make "userService" transient or serializable.(¶òÁÈùÿÿÿÿ
+D
+java:S1948")Make "userDao" transient or serializable.(­¶úÿÿÿÿ
+Z
+java:S1854"?Remove this useless assignment to local variable "userDaoImpl".(Í¶Ï¿øÿÿÿÿ
+P
+java:S1161":Add the "@Override" annotation above this method signature( Üó
+K
+java:S1481"0Remove this unused "userDaoImpl" local variable.(Í¶Ï¿øÿÿÿÿ
+Z
+java:S1854#"?Remove this useless assignment to local variable "userDaoImpl".(Í¶Ï¿øÿÿÿÿ
+K
+java:S1481#"0Remove this unused "userDaoImpl" local variable.(Í¶Ï¿øÿÿÿÿ
+Q
+java:S1128";Remove this unused import 'sn.isi.securiteweb.dto.UserDto'.(’®Ôæ
+Z
+java:S1128	"?Remove this unused import 'sn.isi.securiteweb.entities.Compte'.(Æ…§ñşÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+J
+java:S1068"/Remove this unused "userService" private field.(¶òÁÈùÿÿÿÿ
+F
+java:S1068"+Remove this unused "userDao" private field.(­¶úÿÿÿÿ
